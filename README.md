@@ -6,4 +6,8 @@ Currently I'm working at [Destiny Community](https://destinycommunity.gg) - I us
 
 I've been studying, as well, JavaScript, HTML, CSS and Ruby for a long, very long time. Also, I do have some skills with databases, specifically relational ones.
 
-###### 🐱*Meow!*
+```json
+{
+  "message": "Don't say something is impossible, all you need is to face more steps."
+}
+```
