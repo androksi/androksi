@@ -8,6 +8,6 @@ I've been studying, as well, JavaScript, HTML, CSS and Ruby for a long, very lon
 
 ```json
 {
-  "message": "Don't say something is impossible, all you need is to face more steps."
+  "message": "Enjoy life. I can guarantee it's never too late. We've always got a chance to start over."
 }
 ```
